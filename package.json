@@ -1,0 +1,12 @@
+{
+  "name": "@shashikhanal/deep-clone",
+  "version": "1.0.0",
+  "description": "Deep cloning library which is used to deep clone(copy) multiple data structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "khanalshashi@gmail.com",
+  "license": "MIT",
+  "dependencies": {}
+}
