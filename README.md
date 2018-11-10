@@ -2,12 +2,8 @@
 
 > Deep cloning npm module which is used to deep clone(copy) multiple data structures.
 
-[![Build Status](https://travis-ci.org/shashikhanal/deepClone.svg?branch=master)](https://travis-ci.org/shashikhanal/deepClone)
-
-
 [![npm](https://img.shields.io/badge/npm-v2.0.0-blue.svg)](https://www.npmjs.com/package/@shashikhanal/deep-clone)
-
-
+[![Build Status](https://travis-ci.org/shashikhanal/deepClone.svg?branch=master)](https://travis-ci.org/shashikhanal/deepClone)
 [![GitHub license](https://img.shields.io/github/license/shashikhanal/deepClone.svg)](https://github.com/shashikhanal/deepClone/blob/master/LICENSE)
 
 
